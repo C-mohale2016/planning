@@ -1,0 +1,15 @@
+FINDING OUT WHERE YOU ARE AND WHAT IS THERE
+pwd
+ls
+ls -alt
+
+CREATING & NAVIGATING FOLDERS
+mkdir projects
+ls
+cd projects
+pwd & ls
+
+CREATING FILES & OPENING PROGRAMS
+touch my_file.txt
+atom
+atom .
